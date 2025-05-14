@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+//https://www.youtube.com/watch?v=gX8KaRlkoN0 learn from
+
 typedef vector<vector<int>> matrix;
     int mod=1e9+7;
 
